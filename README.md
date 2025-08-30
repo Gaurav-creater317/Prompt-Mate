@@ -7,7 +7,7 @@ Hey DEV community! 👋
 
 I'm thrilled to introduce my latest project – Prompt Mate – an AI-powered chat interface built using Next.js and Google Cloud’s Gemini API via Google AI Studio.
 
-💡 What is Prompt Mate?
+# 💡 What is Prompt Mate?
 Prompt Mate is a Next.js web application that enables users to:
 
 🧠 Chat with an AI assistant powered by Google’s Gemini model.
