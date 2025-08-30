@@ -1,6 +1,6 @@
 # Prompt Mate - Your Personal AI Conversation Campaign
 
-Education Track: Build Apps with Google AI Studio
+# Education Track: Build Apps with Google AI Studio
 
 🚀 Prompt Mate – Your Personal AI Conversation Companion using Next.js & Gemini API 💬
 Hey DEV community! 👋
