@@ -37,12 +37,13 @@ Whether you're a developer, student, or AI enthusiast, Prompt Mate is designed t
 
 💻 GitHub Repo: View Source on GitHub
 
-🧠 What I Learned
+# 🧠 What I Learned
 Seamlessly integrating Gemini API with Next.js serverless routes
 Protecting API keys using .env.local and getServerSideProps
 Building clean and intuitive UIs using Tailwind CSS
 Testing and refining prompts with Google AI Studio
-🎯 Final Thoughts
+
+# 🎯 Final Thoughts
 Working on Prompt Mate gave me a practical dive into generative AI development and deploying it on a modern full-stack framework.
 
 It’s amazing how quickly you can build something powerful with the right APIs and tools.
