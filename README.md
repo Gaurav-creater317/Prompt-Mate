@@ -2,7 +2,8 @@
 
 # Education Track: Build Apps with Google AI Studio
 
-🚀 Prompt Mate – Your Personal AI Conversation Companion using Next.js & Gemini API 💬
+# 🚀 Prompt Mate – Your Personal AI Conversation Companion using Next.js & Gemini API 💬
+
 Hey DEV community! 👋
 
 I'm thrilled to introduce my latest project – Prompt Mate – an AI-powered chat interface built using Next.js and Google Cloud’s Gemini API via Google AI Studio.
@@ -16,7 +17,7 @@ Prompt Mate is a Next.js web application that enables users to:
 🔐 Interact securely with Google Cloud-hosted functions.
 Whether you're a developer, student, or AI enthusiast, Prompt Mate is designed to demonstrate the power of LLMs in a full-stack web application.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 ⚛️ Next.js – Full-stack React framework.
 ☁️ Google Cloud Gemini API – Used via API key.
 🧪 Google AI Studio – For prompt testing and optimization .
@@ -32,10 +33,9 @@ Whether you're a developer, student, or AI enthusiast, Prompt Mate is designed t
 📸
  
 
-🔗 Live Demo & Code
+# 🔗 Live Demo & Code
 🔍 Live Preview: Visit Prompt Mate
 
-💻 GitHub Repo: View Source on GitHub
 
 # 🧠 What I Learned
 Seamlessly integrating Gemini API with Next.js serverless routes
@@ -50,4 +50,4 @@ It’s amazing how quickly you can build something powerful with the right APIs 
 
 I’d love your feedback and thoughts! 🌟
 
-Feel free to fork, remix, or collaborate with me on future versions.
+Feel free to fork, remix, or collaborate with me on future versions. 
