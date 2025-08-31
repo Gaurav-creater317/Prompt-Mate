@@ -51,3 +51,4 @@ It’s amazing how quickly you can build something powerful with the right APIs 
 I’d love your feedback and thoughts! 🌟
 
 Feel free to fork, remix, or collaborate with me on future versions. 
+# ✨ Also feel free to  star this repository if you like it! ✨
